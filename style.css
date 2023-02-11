@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family:  Georgia, 'Times New Roman', Times, serif;
   margin: 0;
   padding: 0;
   background-color: black;
@@ -31,6 +31,7 @@ header nav ul {
   list-style: none;
   margin: 0;
   padding: 0;
+  font-family:  Georgia, 'Times New Roman', Times, serif;
 }
 
 header nav li {
@@ -61,7 +62,7 @@ img {
 #products {
   display: flex;
   flex-wrap: wrap;
-  width: 80%;
+  width: 70%;
 }
 
 .product {
@@ -70,7 +71,7 @@ img {
   box-shadow: 2px 2px 5px blue;
   margin: 3rem;
   padding: 2rem;
-  width: 15%;
+  width: 25%;
   text-align: center;
   color: rgb(red, green, blue);
 }
@@ -163,4 +164,8 @@ footer {
   justify-content: center;
   align-items: center;
   height: 3rem;
+}
+
+@media screen and (max-width: 600px) {
+
 }
