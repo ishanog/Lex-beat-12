@@ -7,50 +7,50 @@
   },
   {
     "name": "Product 2",
-    "image": "https://png.pngtree.com/png-vector/20220223/ourmid/pngtree-modern-thin-frame-realistic-laptop-notebook-or-ultrabook-mockup-png-image_4452256.png",
-    "price": "$20",
+    "image": "product.png",
+    "price": "RS.1999",
     "description": "ORDER"
   },
   {
     "name": "Product 3",
-    "image": "https://png.pngtree.com/png-vector/20220223/ourmid/pngtree-modern-thin-frame-realistic-laptop-notebook-or-ultrabook-mockup-png-image_4452256.png",
-    "price": "$30",
+    "image": "product.png",
+    "price": "RS.1999",
     "description": "ORDER"
   },
   {
     "name": "Product 4",
-    "image": "https://png.pngtree.com/png-vector/20220223/ourmid/pngtree-modern-thin-frame-realistic-laptop-notebook-or-ultrabook-mockup-png-image_4452256.png",
-    "price": "$30",
+    "image": "product.png",
+    "price": "RS.1999",
     "description": "ORDER"
   },
   {
     "name": "Product 5",
-    "image": "https://png.pngtree.com/png-vector/20220223/ourmid/pngtree-modern-thin-frame-realistic-laptop-notebook-or-ultrabook-mockup-png-image_4452256.png",
-    "price": "$30",
+    "image": "product.png",
+    "price": "RS.1999",
     "description": "ORDER"
   },
   {
     "name": "Product 6",
-    "image": "https://png.pngtree.com/png-vector/20220223/ourmid/pngtree-modern-thin-frame-realistic-laptop-notebook-or-ultrabook-mockup-png-image_4452256.png",
-    "price": "$30",
+    "image": "product.png",
+    "price": "RS.1999",
     "description": "ORDER"
   },
   {
     "name": "Product 7",
-    "image": "https://png.pngtree.com/png-vector/20220223/ourmid/pngtree-modern-thin-frame-realistic-laptop-notebook-or-ultrabook-mockup-png-image_4452256.png",
-    "price": "$30",
+    "image": "product.png",
+    "price": "RS.1999",
     "description": "ORDER"
   },
   {
     "name": "Product 8",
-    "image": "https://png.pngtree.com/png-vector/20220223/ourmid/pngtree-modern-thin-frame-realistic-laptop-notebook-or-ultrabook-mockup-png-image_4452256.png",
-    "price": "$30",
+    "image": "product.png",
+    "price": "RS.1999",
     "description": "ORDER"
   },
   {
     "name": "Product 9",
-    "image": "https://png.pngtree.com/png-vector/20220223/ourmid/pngtree-modern-thin-frame-realistic-laptop-notebook-or-ultrabook-mockup-png-image_4452256.png",
-    "price": "$30",
+    "image": "product.png",
+    "price": "RS.1999", 
     "description": "ORDER"
   }
 ]
