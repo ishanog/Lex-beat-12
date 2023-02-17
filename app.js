@@ -9,8 +9,7 @@ fetch("products.json")
         <img src="${product.image}" alt="${product.name}">
           <h3><b>${product.name}</b></h3>
           <p><b>${product.price}</b></p>
-          <p><b>${product.description}</b></p>
-          <p><b>${product.link}</b></p>
+          <p><b><a href="${product.link}">${product.description}</a></b></p>
       </div>
     `;
     });

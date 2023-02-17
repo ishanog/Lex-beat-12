@@ -1,9 +1,10 @@
 [
   {
-    "name": "Gaming Earbuds",
+    "name": "Lexbeat G11",
     "image": "product.png",
     "price": " <strike>RS.2500 </strike> <br> RS.1999",
-    "link": "team.html"
+    "description": "More Info",
+    "link": "moreinfo.html"
   },
   {
     "name": "Product 2",
