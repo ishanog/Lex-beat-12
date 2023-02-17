@@ -10,16 +10,23 @@ fetch("products.json")
           <h3><b>${product.name}</b></h3>
           <p><b>${product.price}</b></p>
           <p><b>${product.description}</b></p>
+          <p><b>${product.link}</b></p>
       </div>
     `;
     });
   });
 
+var loader = document.getElementById("preloader");
+window.addEventListener("load", function () {
+  loader.style.display = "none"
+})
+
+
 // Get the button:
 let mybutton = document.getElementById("myBtn");
 
 // When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
+window.onscroll = function () { scrollFunction() };
 
 function scrollFunction() {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
@@ -38,3 +45,4 @@ function topFunction() {
 function myFunction() {
   location.replace("https://www.w3schools.com")
 }
+

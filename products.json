@@ -1,56 +1,56 @@
 [
   {
-    "name": "Product 1",
+    "name": "Gaming Earbuds",
     "image": "product.png",
-    "price": "RS.1999",
-    "description": "ORDER"
+    "price": " <strike>RS.2500 </strike> <br> RS.1999",
+    "link": "team.html"
   },
   {
     "name": "Product 2",
-    "image": "product.png",
-    "price": "RS.1999",
+    "image": "coming-soon.png",
+    "price": "RS.0000",
     "description": "ORDER"
   },
   {
     "name": "Product 3",
-    "image": "product.png",
-    "price": "RS.1999",
+    "image": "coming-soon.png",
+    "price": "RS.0000",
     "description": "ORDER"
   },
   {
     "name": "Product 4",
-    "image": "product.png",
-    "price": "RS.1999",
+    "image": "coming-soon.png",
+    "price": "RS.0000",
     "description": "ORDER"
   },
   {
     "name": "Product 5",
-    "image": "product.png",
-    "price": "RS.1999",
+    "image": "coming-soon.png",
+    "price": "RS.0000",
     "description": "ORDER"
   },
   {
     "name": "Product 6",
-    "image": "product.png",
-    "price": "RS.1999",
+    "image": "coming-soon.png",
+    "price": "RS.0000",
     "description": "ORDER"
   },
   {
     "name": "Product 7",
-    "image": "product.png",
-    "price": "RS.1999",
+    "image": "coming-soon.png",
+    "price": "RS.0000",
     "description": "ORDER"
   },
   {
     "name": "Product 8",
-    "image": "product.png",
-    "price": "RS.1999",
+    "image": "coming-soon.png",
+    "price": "RS.0000",
     "description": "ORDER"
   },
   {
     "name": "Product 9",
-    "image": "product.png",
-    "price": "RS.1999", 
+    "image": "coming-soon.png",
+    "price": "RS.0000",
     "description": "ORDER"
   }
 ]
