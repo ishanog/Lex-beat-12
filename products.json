@@ -3,55 +3,70 @@
     "name": "Lexbeat G11",
     "image": "product.png",
     "price": " <strike>RS.2500 </strike> <br> RS.1999",
-    "description": "More Info",
+    "description": "Learn More",
     "link": "moreinfo.html"
   },
   {
     "name": "Product 2",
     "image": "coming-soon.png",
     "price": "RS.0000",
-    "description": "ORDER"
+    "description": "Learn More",
+    "link": "moreinfo.html"
   },
   {
     "name": "Product 3",
     "image": "coming-soon.png",
     "price": "RS.0000",
-    "description": "ORDER"
+    "description": "Learn More",
+    "link": "moreinfo.html"
   },
   {
     "name": "Product 4",
     "image": "coming-soon.png",
     "price": "RS.0000",
-    "description": "ORDER"
+    "description": "Learn More",
+    "link": "moreinfo.html"
   },
   {
     "name": "Product 5",
     "image": "coming-soon.png",
     "price": "RS.0000",
-    "description": "ORDER"
+    "description": "Learn More",
+    "link": "moreinfo.html"
   },
   {
     "name": "Product 6",
     "image": "coming-soon.png",
     "price": "RS.0000",
-    "description": "ORDER"
+    "description": "Learn More",
+    "link": "moreinfo.html"
   },
   {
     "name": "Product 7",
     "image": "coming-soon.png",
     "price": "RS.0000",
-    "description": "ORDER"
+    "description": "Learn More",
+    "link": "moreinfo.html"
   },
   {
     "name": "Product 8",
     "image": "coming-soon.png",
     "price": "RS.0000",
-    "description": "ORDER"
+    "description": "Learn More",
+    "link": "moreinfo.html"
   },
   {
     "name": "Product 9",
     "image": "coming-soon.png",
     "price": "RS.0000",
-    "description": "ORDER"
+    "description": "Learn More",
+    "link": "moreinfo.html"
+  },
+  {
+    "name": "Product 10",
+    "image": "coming-soon.png",
+    "price": "RS.0000",
+    "description": "Learn More",
+    "link": "moreinfo.html"
   }
 ]
